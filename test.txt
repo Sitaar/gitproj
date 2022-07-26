@@ -1,2 +1,3 @@
 this is the first git project and it is free
 this is my first time to use this software
+the new version is created
